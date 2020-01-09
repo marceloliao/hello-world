@@ -1,2 +1,2 @@
 # hello-world
-This is Hello World exercise
+I love rice and seaweed, I had taco for lunch today
